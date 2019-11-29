@@ -35,3 +35,8 @@ Ideally, this would be handled through a script that will set up the necessary e
 $ setup-wp-environment --php=7.3 --wp=trunk --plugin=jetpack --plugin=caldera-forms
 $ phpunit
 ```
+
+## Resources
+
+* https://git.saturdaydrive.io/_/engineering-ops/boilerplate/wordpress-plugin
+* https://github.com/assertwell/wp-docker-container
